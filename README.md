@@ -7,7 +7,6 @@ Linktree para ter fácil acesso a todas as minhas informações importantes, com
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -18,7 +17,7 @@ Linktree para ter fácil acesso a todas as minhas informações importantes, com
 <br>
 
 <p align="center">
-  <img alt="projeto Linktree" src=".github/preview.png" width="100%">
+  <img alt="projeto Linktree" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
