@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A Linktree é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online] (Link projeto)
+- [Acesse o projeto finalizado, online] (https://tomascubeiro.github.io/linktree/)
 
 ## :memo: Licença
 
